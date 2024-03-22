@@ -1,0 +1,15 @@
+{
+  "name": "grpc",
+  "version": "1.0.0",
+  "description": "GRPC protocol example ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikola Velkovski",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.7.10",
+    "grpc": "^1.24.11"
+  }
+}
